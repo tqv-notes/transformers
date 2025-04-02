@@ -11,7 +11,7 @@ is_kaggle = "kaggle_secrets" in sys.modules
 torch_to_cuda = {
     '2.0.0': 'cu118',  # Example mapping, add others as needed
     '2.0.1': 'cu118',
-    '2.1.0': 'cu118',
+    '2.6.0': 'cu118',
     # ... add more mappings if necessary ...
 }
 
